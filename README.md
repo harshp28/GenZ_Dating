@@ -1,4 +1,4 @@
-# ** Project Report: Predicting User Satisfaction in a Dating App**
+# **📌 Project Report: Predicting User Satisfaction in a Dating App**
 
 ## **1. Introduction**
 The goal of this project was to analyze user behavior on a Gen Z dating app and build a predictive model to classify user satisfaction. We explored data through cleaning, visualization, feature engineering, and machine learning techniques to optimize model accuracy.
